@@ -1,10 +1,17 @@
 [consonant-soft]
-б в г з к м н п с ф х ц
+б в г ґ з к м н п с ф х ц
+
+[vowel-jot]
+е ё і ю я
+
+[consonant-assimil]
+б в з м н п с ф ц
 
 а a
 б b
 в w
 г h
+ґ g
 д d
 е je
 ё jo
@@ -39,6 +46,11 @@
 ' 
 ’ 
 ʼ 
+
+з[consonant-assimil][vowel-jot] ź
+л[consonant-assimil][vowel-jot] l
+с[consonant-assimil][vowel-jot] ś
+ц[consonant-assimil][vowel-jot] ć
 
 ле le
 лё lo
